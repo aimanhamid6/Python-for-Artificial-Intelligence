@@ -7,4 +7,9 @@ __pycache__
 *_Excercise.ipynb
 # exercises
 # pattern
+<<<<<<< HEAD
+=======
+*_Notes.md
+*_Explained.md
+>>>>>>> 66185439b57fb1e03d764a8ed076878ced8730f5
 *.env
